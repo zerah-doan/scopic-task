@@ -17,10 +17,16 @@ namespace ScopicTask.Page
             return this;
         }
 
-        public Registration Register()
+        public Registration ClickRegister()
         {
             JsClick(By.XPath("//a[./text()='Start here.']"));
             return Registration.Page;
+        }
+
+        public SignIn ClickSignIn()
+        {
+            JsClick(By.XPath("//span[./text()='Sign in']"));
+            return ScopicTask.Page.SignIn.Page;
         }
     }
 }

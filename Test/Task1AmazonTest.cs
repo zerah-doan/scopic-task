@@ -28,15 +28,26 @@ namespace ScopicTask.Test
         [Test]
         public void E2E_RegisterToLogin()
         {
-            Home.Page.Register();
-            
+            string email = "testmail".AddTimeStamp() + "@yopmail.com";
+            string password = "P@ssword123";
+            Assert.That(Home.Page.ClickRegister().CreateAccount("Cus Name", email, password), Is.True, "Assert registration is successful");
+            Assert.That(Home.Page.GoTo().ClickSignIn().LogIn(email, password), Is.True, "Assert sign in successfully");
+        }
+
+        [Test]
+        public void RegisterNotSuccessful()
+        {
+            Home.Page.ClickRegister();
             //1. Empty input
             Assert.That(Registration.Page.CreateAccount("", "", ""), Is.False, "Assert registration is not successfull");
             //2. Empty name
             Assert.That(Registration.Page.CreateAccount("", "testmail".AddTimeStamp() + "@yopmail.com", "P@ssword123"), Is.False, "Assert registration is not successfull");
             //3. Empty password
             Assert.That(Registration.Page.CreateAccount("Cus Name", "testmail".AddTimeStamp() + "@yopmail.com", ""), Is.False, "Assert registration is not successfull");
-
+            //4. invalid password length
+            Assert.That(Registration.Page.CreateAccount("Cus Name", "testmail".AddTimeStamp() + "@yopmail.com", "12345"), Is.False, "Assert registration is not successfull");
+            //5. invalid email format
+            Assert.That(Registration.Page.CreateAccount("Cus Name", "testmail".AddTimeStamp(), "P@ssword123"), Is.False, "Assert registration is not successfull");
         }
     }
 }

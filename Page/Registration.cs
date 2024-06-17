@@ -1,4 +1,5 @@
 ﻿using OpenQA.Selenium;
+using ScopicTask.WebDriver;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +18,7 @@ namespace ScopicTask.Page
             Type(By.Name("password"), password);
             Type(By.Name("passwordCheck"), password);
             Click(By.Id("continue"));
-            return false;
+            return !Manager.Driver.Title.Equals("Amazon Registration");
         }
     }
 }
