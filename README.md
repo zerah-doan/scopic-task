@@ -1,8 +1,7 @@
 # scopic-task
 
 ## Task 1 & 2
-You could find task 1 & 2 in this repo.
-There are 2 classes for 2 tasks accordingly
+You could find task 1 & 2 in this repo, there are 2 classes under Test folder
 
 ## Task 3
 ### a) Test cases
@@ -32,8 +31,10 @@ Expected: should be able to sign up as input meets AMZ requirements
 
 
 ## Task 4
-I'm using C# to develop a solution that can automate both browser and api (by using WebDriver and Restsharp libs).
+I'm using C# to develop a solution that can automate both browser and api (by using Nunit + WebDriver and Restsharp libs).
 The benefit of this approach is that we have all in one solution:
 - 1 solution can perform test on different application types
 - share test report engine
 - integrate with CI/CD easily
+
+I'd follow this priority to apply AT: unit test > api test > ui test (automation testing pyramid)
