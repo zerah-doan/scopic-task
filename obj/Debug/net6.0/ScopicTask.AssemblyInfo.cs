@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScopicTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c12fe82bf5952ea0272f5b19d61d3e8e9d4a9bfc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScopicTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScopicTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

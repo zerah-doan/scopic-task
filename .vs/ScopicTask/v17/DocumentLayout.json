@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|c:\\users\\quang\\source\\repos\\scopictask\\test\\task2reqrestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|solutionrelative:test\\task2reqrestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|c:\\users\\quang\\source\\repos\\scopictask\\test\\task1amazontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|solutionrelative:test\\task1amazontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|c:\\users\\quang\\source\\repos\\scopictask\\page\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|solutionrelative:page\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|c:\\users\\quang\\source\\repos\\scopictask\\page\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|solutionrelative:page\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|c:\\users\\quang\\source\\repos\\scopictask\\webdriver\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|solutionrelative:webdriver\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|c:\\users\\quang\\source\\repos\\scopictask\\util\\string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|solutionrelative:util\\string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|c:\\users\\quang\\source\\repos\\scopictask\\webdriver\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|solutionrelative:webdriver\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|c:\\users\\quang\\source\\repos\\scopictask\\page\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|solutionrelative:page\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|c:\\users\\quang\\source\\repos\\scopictask\\webdriver\\ebrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243A4423-1915-43CE-91EE-E0F36CF422BF}|ScopicTask.csproj|solutionrelative:webdriver\\ebrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 124,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "String.cs",
+              "DocumentMoniker": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\Util\\String.cs",
+              "RelativeDocumentMoniker": "Util\\String.cs",
+              "ToolTip": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\Util\\String.cs",
+              "RelativeToolTip": "Util\\String.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:35:42.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task1AmazonTest.cs",
+              "DocumentMoniker": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\Test\\Task1AmazonTest.cs",
+              "RelativeDocumentMoniker": "Test\\Task1AmazonTest.cs",
+              "ToolTip": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\Test\\Task1AmazonTest.cs",
+              "RelativeToolTip": "Test\\Task1AmazonTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:00:15.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\Page\\Registration.cs",
+              "RelativeDocumentMoniker": "Page\\Registration.cs",
+              "ToolTip": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\Page\\Registration.cs",
+              "RelativeToolTip": "Page\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:00:07.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\WebDriver\\Manager.cs",
+              "RelativeDocumentMoniker": "WebDriver\\Manager.cs",
+              "ToolTip": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\WebDriver\\Manager.cs",
+              "RelativeToolTip": "WebDriver\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:44:24.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\WebDriver\\Factory.cs",
+              "RelativeDocumentMoniker": "WebDriver\\Factory.cs",
+              "ToolTip": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\WebDriver\\Factory.cs",
+              "RelativeToolTip": "WebDriver\\Factory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:44:20.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EBrowser.cs",
+              "DocumentMoniker": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\WebDriver\\EBrowser.cs",
+              "RelativeDocumentMoniker": "WebDriver\\EBrowser.cs",
+              "ToolTip": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\WebDriver\\EBrowser.cs",
+              "RelativeToolTip": "WebDriver\\EBrowser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:44:05.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\Page\\BasePage.cs",
+              "RelativeDocumentMoniker": "Page\\BasePage.cs",
+              "ToolTip": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\Page\\BasePage.cs",
+              "RelativeToolTip": "Page\\BasePage.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:43:08.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\Page\\Home.cs",
+              "RelativeDocumentMoniker": "Page\\Home.cs",
+              "ToolTip": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\Page\\Home.cs",
+              "RelativeToolTip": "Page\\Home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:56:13.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task2ReqresTest.cs",
+              "DocumentMoniker": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\Test\\Task2ReqresTest.cs",
+              "RelativeDocumentMoniker": "Test\\Task2ReqresTest.cs",
+              "ToolTip": "C:\\Users\\Quang\\source\\repos\\ScopicTask\\Test\\Task2ReqresTest.cs",
+              "RelativeToolTip": "Test\\Task2ReqresTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:00:54.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
